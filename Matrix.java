@@ -1,9 +1,3 @@
-/*
- *  Name		: Andrew Hartwell
- *  cruzID       	: arhartwe
- *  Assignment   	: pa3
-*/
-
 class Matrix
 {
 	private int n;
